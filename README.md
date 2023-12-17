@@ -5,7 +5,7 @@ Lab2:
 In this lab, I created a ROS2 package containing two communicating nodes that enable the robot to turn in place to follow an object.
 
 Lab3:
-The objective of this lab was to explore PID control and combine multiple sensor inputs. The goal was to have the robot chase a desired object observed in its local coordinate frame. Specically, I made the robot always face the object and maintain a desired distance from the object. 
+The objective of this lab was to explore PID control and combine multiple sensor inputs. The goal was to have the robot chase a desired object observed in its local coordinate frame. Specifically, I made the robot always face the object and maintain a desired distance from the object. 
 
 Lab 4:
 
